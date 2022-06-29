@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AC7E-C806
+
+ Directory of C:\Users\sai kumar\Desktop\GitProject
+
+29-06-2022  15:02    <DIR>          .
+29-06-2022  15:02    <DIR>          ..
+29-06-2022  13:20                22 index.html
+29-06-2022  13:19                11 test1.txt
+29-06-2022  15:02                 0 test2.txt
+               3 File(s)             33 bytes
+               2 Dir(s)  343,965,376,512 bytes free
